@@ -20,5 +20,5 @@ Developed using R/R-Studio.
 ## About me
 I'm passionate about data visualization and sustainability analytics. This portfolio showcases my work in (geo)spatial analysis and data storytelling.
 
-Interested in collaborating? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hector-chavez-943a3748/)!
+Interested in collaborating? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hector-chavez-943a3748/){target="_blank"}!
 
